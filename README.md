@@ -23,9 +23,12 @@ A Responsive YouTube clone interface built clone built with HTML and CSS, deploy
 [link] - https://yt-studio-077.web.app/
 
 ## Firebase Deployment
+# 1. Install Firebase CLI
 npm install -g firebase-tools
-firebase login
-firebase init
-# Select Hosting, choose existing project for my convinent
-firebase deploy
 
+# 2. Login and initialize
+firebase login
+firebase init hosting
+
+# 3. Deploy!
+firebase deploy
