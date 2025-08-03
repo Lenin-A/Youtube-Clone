@@ -3,11 +3,17 @@ A Responsive YouTube clone interface built clone built with HTML and CSS, deploy
 
 ## Features
 -**Responsive design**: Works on mobile,desktop
+
 -**Key YouTube Components**:
+
 -Fixed header with search 
+
 -Navigation sidebar
+
 -Video grid layout
+
 -Video duration position
+
 -Tooltips on Hover
 
 ##Technologies Used
@@ -17,7 +23,7 @@ A Responsive YouTube clone interface built clone built with HTML and CSS, deploy
 -**Responsive Design**:Media queries for all screen sizes
 
 ## Project Structure
-<img width="426" height="474" alt="image" src="https://github.com/user-attachments/assets/843451c1-d106-4b62-b5d9-363bceb0a6d7" />
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/843451c1-d106-4b62-b5d9-363bceb0a6d7" />
 
 ## Live Website
 [link] - https://yt-studio-077.web.app/
