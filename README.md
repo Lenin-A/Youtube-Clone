@@ -45,6 +45,3 @@ firebase init hosting
 # 3. Deploy
 
 firebase deploy
-
-# 3. Deploy!
-firebase deploy
